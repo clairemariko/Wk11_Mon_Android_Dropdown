@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Welcome To Froggit</string>
+
+
+        <string-array name="frogs_array">
+            <item>Bull Frog</item>
+            <item>Red Dart Frog</item>
+            <item>Horned Frog</item>
+            <item>Giant Frog</item>
+            <item>Spotty Frog</item>
+            <item>Glowing Frog</item>
+            <item>One Eyed Frog</item>
+            <item>Druid Frog</item>
+        </string-array>
+
+</resources>
