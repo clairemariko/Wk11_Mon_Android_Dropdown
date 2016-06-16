@@ -13,4 +13,6 @@
             <item>Druid Frog</item>
         </string-array>
 
+    <string name="app_text"><b>We are a friendly bunch of frogs. Join us on our planet</b></string>
+
 </resources>
